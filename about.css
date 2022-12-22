@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+    color: white;
+    justify-content: center;
+
+}
+nav{
+    background-color: azure;
+    color: black;
+    height: 8vh;
+}
+main{
+    background-color: #201f21;
+    height: 70vh;
+}
